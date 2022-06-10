@@ -1,6 +1,12 @@
 # test-ukur-backend-galang
 Test Ukur Developer
 
+ Before start
+```
+
+npm install --save 
+
+```
 
 Route :
 ```
